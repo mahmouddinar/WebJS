@@ -1,0 +1,23 @@
+
+body {
+    background-color: cornflowerblue;
+}
+
+.container {
+    display: flex;
+    border: 2px solid #f5deb3;
+    margin: 20px;
+    margin-top: 50px;
+    height: 600px;
+}
+
+.canvas {
+    flex: 1;
+    border: 2px solid skyblue;
+    margin: 10px;
+}
+
+.palette {
+    border: 2px solid darkblue;
+    margin: 10px;
+}
